@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 
-// --- Estrutura Principal ---
+// -- Estrutura Principal --
 typedef struct {
     char nome[20];
     int tropas;
